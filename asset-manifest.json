@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/New-ChatGPT/static/css/main.abb34ecb.css",
+    "main.js": "/New-ChatGPT/static/js/main.5cc04bd6.js",
+    "static/js/787.fa039871.chunk.js": "/New-ChatGPT/static/js/787.fa039871.chunk.js",
+    "index.html": "/New-ChatGPT/index.html",
+    "main.abb34ecb.css.map": "/New-ChatGPT/static/css/main.abb34ecb.css.map",
+    "main.5cc04bd6.js.map": "/New-ChatGPT/static/js/main.5cc04bd6.js.map",
+    "787.fa039871.chunk.js.map": "/New-ChatGPT/static/js/787.fa039871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb34ecb.css",
+    "static/js/main.5cc04bd6.js"
+  ]
+}
